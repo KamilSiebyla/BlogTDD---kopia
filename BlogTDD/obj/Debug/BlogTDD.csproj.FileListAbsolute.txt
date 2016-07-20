@@ -1,0 +1,36 @@
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\BlogTDD.exe.config
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\BlogTDD.exe
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\BlogTDD.pdb
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\obj\Debug\BlogTDD.csprojResolveAssemblyReference.cache
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\obj\Debug\BlogTDD.exe
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\obj\Debug\BlogTDD.pdb
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\Castle.Core.dll
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\Moq.dll
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\nunit.framework.dll
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\Castle.Core.xml
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\Moq.xml
+c:\users\siebylak\documents\visual studio 2015\Projects\BlogTDD\BlogTDD\bin\Debug\nunit.framework.xml
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\BlogTDD.exe.config
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\obj\Debug\BlogTDD.exe
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\obj\Debug\BlogTDD.pdb
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\obj\Debug\BlogTDD.csprojResolveAssemblyReference.cache
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\BlogTDD.exe
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\BlogTDD.pdb
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\Castle.Core.dll
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\Moq.dll
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\nunit.framework.dll
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\Castle.Core.xml
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\Moq.xml
+C:\Users\Public\Desktop\BlogTDD\BlogTDD\bin\Debug\nunit.framework.xml
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\BlogTDD.exe.config
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\obj\Debug\BlogTDD.exe
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\obj\Debug\BlogTDD.pdb
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\BlogTDD.exe
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\BlogTDD.pdb
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\Castle.Core.dll
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\Moq.dll
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\nunit.framework.dll
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\Castle.Core.xml
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\Moq.xml
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\bin\Debug\nunit.framework.xml
+C:\Users\siebylak\Desktop\BlogTDD\BlogTDD\obj\Debug\BlogTDD.csprojResolveAssemblyReference.cache
